@@ -1,0 +1,28 @@
+{
+  "name": "signalk-wikipedia",
+  "version": "1.0.0",
+  "description": "Wikipedia Points of Interest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "signalk-node-server-plugin"
+  ],
+  "signalk": {
+    "displayName": "Wikipedia Points of Interest"
+  },
+  "author": "Ilker Temir",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "request": "^2.88.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itemir/signalk-wikipedia.git"
+  },
+  "bugs": {
+    "url": "https://github.com/itemir/signalk-wikipedia/issues"
+  },
+  "homepage": "https://github.com/itemir/signalk-wikipedia#readme"
+}
